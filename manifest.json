@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.0",
-  "file": "cm-pc-15.0.bin",
-  "sha256": "2deb0f24dcd3c11804a82753f1ed66162db003f0f2fe14d3ba158800789b1602",
+  "version": "15.1",
+  "file": "cm-pc-15.1.bin",
+  "sha256": "291a8cd04eb18069e954e7e8f5de826913788c44c38240dee585ffe76853d3d8",
   "base": "14.3"
  },
- "notes": "V15.0: Programme of Works ya kweli kwa msimu wa mvua - drainage (kusafisha mitaro, culverts, mitre drains) kwanza kabla ya mvua au ndani ya mvua kwa kuvizia; earthworks, gravel na surfacing hazipangwi kwenye mvua wala miezi ya kuanza/kuisha mvua; sehemu haiachwi nusu mvua ikianza. Pamoja na V14.7-14.9 (strip map)",
+ "notes": "V15.1: Drainage works (desilting mitaro na culverts, mitre drains) zinapangwa karibu na mvua - mwezi 1 kabla mvua kuanza na ndani ya mvua kwa kuvizia - si mapema kiangazi; earthworks/gravel/surfacing kiangazi tu; ufungaji wa culverts mpya ni Structures (kiangazi)",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
