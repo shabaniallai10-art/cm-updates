@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.5",
-  "file": "cm-pc-15.5.bin",
-  "sha256": "86c9a50ea90c21bde86133147287664eca0e302dbdae66d1476580cb6254b424",
+  "version": "15.6",
+  "file": "cm-pc-15.6.bin",
+  "sha256": "177e724440c6fb2d143e4a4af8789226520037353dcd708d863b4f101b39dd4d",
   "base": "14.3"
  },
- "notes": "V15.5: Kazi zilizoondolewa kwenye Rescoping (quantity 0) haziingii tena kwenye Programme of Works. Pamoja na V15.4: kufyeka Aprili-Juni.",
+ "notes": "V15.6: Programme inafuata Rescoping Order (iliyoidhinishwa na inayoandaliwa): kazi zilizoongezwa (added activities) zinaingia, kazi zilizoondolewa zote haziingii, zilizopunguzwa zinapunguzwa. Kazi iliyoongezwa bila kiasi inapangwa kwa makadirio na unaambiwa.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
