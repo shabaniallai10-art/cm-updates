@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.3",
-  "file": "cm-pc-15.3.bin",
-  "sha256": "c2d381842ae58c57fc69cf6f8e1d679fdce07cd5328c31bffc65057f4df65abf",
+  "version": "15.4",
+  "file": "cm-pc-15.4.bin",
+  "sha256": "319831229c6a8ae6743afe3496ed5d542bf931d142f83c0c3cfd130a5a66eab6",
   "base": "14.3"
  },
- "notes": "V15.3: Earthworks zote (reshaping, gravelling, fill, landslide) na surfacing zinamalizika KABLA ya Januari (mvua kubwa Jan-Apr); kama haiwezekani zinasubiri Mei. Gang zinaongezwa kufikia hilo; earthworks hazisubiri culvert moja inayojengwa; timu kadhaa za structures kwa wakati mmoja.",
+ "notes": "V15.4: Kufyeka (grass cutting, bush clearing) kunapangwa baada ya mvua - Aprili hadi Juni; site clearance ya kabla ya earthworks inabaki mwanzoni. Earthworks hazisubiri kufyeka.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
