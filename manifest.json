@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "14.9",
-  "file": "cm-pc-14.9.bin",
-  "sha256": "b946fdabf37edc91722fa6f1110ee7a604ef17cc7c08aeb96741bb104ad51071",
+  "version": "15.0",
+  "file": "cm-pc-15.0.bin",
+  "sha256": "2deb0f24dcd3c11804a82753f1ed66162db003f0f2fe14d3ba158800789b1602",
   "base": "14.3"
  },
- "notes": "V14.9: Existing features kutoka Google Earth (pini zenye jina: shule, daraja, junction, kijiji...) na kutoka survey ya Site Camera zinaingia kwenye Strip Map zenyewe; V14.8: alignment, hali ya barabara, hatari, madaraja, upana; V14.7: kazi za FY 3 zilizopita",
+ "notes": "V15.0: Programme of Works ya kweli kwa msimu wa mvua - drainage (kusafisha mitaro, culverts, mitre drains) kwanza kabla ya mvua au ndani ya mvua kwa kuvizia; earthworks, gravel na surfacing hazipangwi kwenye mvua wala miezi ya kuanza/kuisha mvua; sehemu haiachwi nusu mvua ikianza. Pamoja na V14.7-14.9 (strip map)",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
