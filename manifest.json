@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.1",
-  "file": "cm-pc-15.1.bin",
-  "sha256": "291a8cd04eb18069e954e7e8f5de826913788c44c38240dee585ffe76853d3d8",
+  "version": "15.2",
+  "file": "cm-pc-15.2.bin",
+  "sha256": "95c5638758400d8ab15d2e082ad4c8047a7542ae72a765107360519f1e62d439",
   "base": "14.3"
  },
- "notes": "V15.1: Drainage works (desilting mitaro na culverts, mitre drains) zinapangwa karibu na mvua - mwezi 1 kabla mvua kuanza na ndani ya mvua kwa kuvizia - si mapema kiangazi; earthworks/gravel/surfacing kiangazi tu; ufungaji wa culverts mpya ni Structures (kiangazi)",
+ "notes": "V15.2: Programme inaangalia hali ya hewa halisi ya barabara (Open-Meteo: mvua ya miaka 10 + utabiri wa siku 16). Kusafisha mitaro na culverts zilizoziba ni kazi ya KWANZA mvua ikikaribia au ikiwa inanyesha (siku kavu - kuvizia); earthworks kiangazi tu na si siku za mvua. Mvua: mwisho wa Nov - mwisho wa Apr.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
