@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "14.6",
-  "file": "cm-pc-14.6.bin",
-  "sha256": "148d8043c42bbf518da1533f752eea67282c987e5416ae51b6f8d7c754a1c68f",
+  "version": "14.7",
+  "file": "cm-pc-14.7.bin",
+  "sha256": "ea005fd59cec1b6c9f55aeac88f4497e6ce36e490956d0bdfa6758f47cf95e32",
   "base": "14.3"
  },
- "notes": "V14.6: updates za automatic kutoka cm-updates; vipimo vya Google Earth; michoro ya pre-tender yenye uhalisia.",
+ "notes": "V14.7: Kazi za miaka 3 iliyopita (FY) kwenye Strip Map - vitufe vya kila mwaka, menyu za kazi, category na chainages; mwaka usiojazwa = NIL",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
