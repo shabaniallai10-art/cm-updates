@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.6",
-  "file": "cm-pc-15.6.bin",
-  "sha256": "177e724440c6fb2d143e4a4af8789226520037353dcd708d863b4f101b39dd4d",
+  "version": "15.7",
+  "file": "cm-pc-15.7.bin",
+  "sha256": "1ad35439f0c7c911bbd65519ae81f3820ba2b03e577bb26ac2a2bb119911daa5",
   "base": "14.3"
  },
- "notes": "V15.6: Programme inafuata Rescoping Order (iliyoidhinishwa na inayoandaliwa): kazi zilizoongezwa (added activities) zinaingia, kazi zilizoondolewa zote haziingii, zilizopunguzwa zinapunguzwa. Kazi iliyoongezwa bila kiasi inapangwa kwa makadirio na unaambiwa.",
+ "notes": "V15.7: Programme inafuata Rescoping Order kikamilifu - added activities kwa kiasi cha Order (2.01, 2.06, 2.09b, 2.10g), kazi isiyo kwenye Order (k.m. 2.04 iliyokataliwa na mkandarasi) haipangwi kabisa, omitted zinatolewa; river training ni kazi ya kiangazi; kazi za daraja (timber, steel covers, bolts) ni Structures.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
