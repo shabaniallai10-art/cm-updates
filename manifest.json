@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "14.8",
-  "file": "cm-pc-14.8.bin",
-  "sha256": "93d41e26e98e7331546818ff9718d539b2657e180004f7eee60aee40b095a0d8",
+  "version": "14.9",
+  "file": "cm-pc-14.9.bin",
+  "sha256": "b946fdabf37edc91722fa6f1110ee7a604ef17cc7c08aeb96741bb104ad51071",
   "base": "14.3"
  },
- "notes": "V14.8: Strip Map - alignment halisi (GPS), hali ya barabara Good/Fair/Poor, alama za hatari (kona kali, hump n.k.), madaraja, upana uliopimwa (tape na Google Earth), rangi za category; V14.7: kazi za FY 3 zilizopita (NIL)",
+ "notes": "V14.9: Existing features kutoka Google Earth (pini zenye jina: shule, daraja, junction, kijiji...) na kutoka survey ya Site Camera zinaingia kwenye Strip Map zenyewe; V14.8: alignment, hali ya barabara, hatari, madaraja, upana; V14.7: kazi za FY 3 zilizopita",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
