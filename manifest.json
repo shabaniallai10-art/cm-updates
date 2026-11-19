@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.4",
-  "file": "cm-pc-15.4.bin",
-  "sha256": "319831229c6a8ae6743afe3496ed5d542bf931d142f83c0c3cfd130a5a66eab6",
+  "version": "15.5",
+  "file": "cm-pc-15.5.bin",
+  "sha256": "86c9a50ea90c21bde86133147287664eca0e302dbdae66d1476580cb6254b424",
   "base": "14.3"
  },
- "notes": "V15.4: Kufyeka (grass cutting, bush clearing) kunapangwa baada ya mvua - Aprili hadi Juni; site clearance ya kabla ya earthworks inabaki mwanzoni. Earthworks hazisubiri kufyeka.",
+ "notes": "V15.5: Kazi zilizoondolewa kwenye Rescoping (quantity 0) haziingii tena kwenye Programme of Works. Pamoja na V15.4: kufyeka Aprili-Juni.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
