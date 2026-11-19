@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.7",
-  "file": "cm-pc-15.7.bin",
-  "sha256": "1ad35439f0c7c911bbd65519ae81f3820ba2b03e577bb26ac2a2bb119911daa5",
+  "version": "15.8",
+  "file": "cm-pc-15.8.bin",
+  "sha256": "154bbe6723afab93e98a4124dc2973c172e4d1fc1cac3a2ed02da506ad690920",
   "base": "14.3"
  },
- "notes": "V15.7: Programme inafuata Rescoping Order kikamilifu - added activities kwa kiasi cha Order (2.01, 2.06, 2.09b, 2.10g), kazi isiyo kwenye Order (k.m. 2.04 iliyokataliwa na mkandarasi) haipangwi kabisa, omitted zinatolewa; river training ni kazi ya kiangazi; kazi za daraja (timber, steel covers, bolts) ni Structures.",
+ "notes": "V15.8: Mitambo inaletwa site mara moja - earthworks/gravel/surfacing hazigawanywi kabla na baada ya mvua. Programu inaongeza mitambo kumaliza zote kabla ya Januari; isipowezekana, zote zinapangwa baada ya mvua (Mei) pamoja na site clearance yake; isipotosha kwa muda wa mkataba inatoa onyo.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
