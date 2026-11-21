@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.8",
-  "file": "cm-pc-15.8.bin",
-  "sha256": "154bbe6723afab93e98a4124dc2973c172e4d1fc1cac3a2ed02da506ad690920",
+  "version": "15.9",
+  "file": "cm-pc-15.9.bin",
+  "sha256": "b15496ed1ff1f10091b0b2e6fec3a54aea2f6c25e387b6b9fbdc2fe511612851",
   "base": "14.3"
  },
- "notes": "V15.8: Mitambo inaletwa site mara moja - earthworks/gravel/surfacing hazigawanywi kabla na baada ya mvua. Programu inaongeza mitambo kumaliza zote kabla ya Januari; isipowezekana, zote zinapangwa baada ya mvua (Mei) pamoja na site clearance yake; isipotosha kwa muda wa mkataba inatoa onyo.",
+ "notes": "V15.9: (1) Rates zilizokubaliwa kwenye Negotiation Meeting zinaingia zenyewe kwenye BOQ, Rescoping/Variation Order na Addendum - rate ya mkandarasi haiwezi kuzibadilisha. (2) Chaguo la Original BOQ au Rescoping/Variation Order kwa Programme, Strip Map na michoro. (3) NOP ya kila mwezi kutoka programme, (4) RFI ya kila NOP, (5) Request for Materials kutoka QA/QC, (6) Weekly Site Records - kwa fomu za ofisi.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
