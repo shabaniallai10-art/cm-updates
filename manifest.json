@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "15.9",
-  "file": "cm-pc-15.9.bin",
-  "sha256": "b15496ed1ff1f10091b0b2e6fec3a54aea2f6c25e387b6b9fbdc2fe511612851",
+  "version": "16.0",
+  "file": "cm-pc-16.0.bin",
+  "sha256": "f5842416402caa69de54bbb5d7636c9493e11baf5db0c9045f357869b5916ef9",
   "base": "14.3"
  },
- "notes": "V15.9: (1) Rates zilizokubaliwa kwenye Negotiation Meeting zinaingia zenyewe kwenye BOQ, Rescoping/Variation Order na Addendum - rate ya mkandarasi haiwezi kuzibadilisha. (2) Chaguo la Original BOQ au Rescoping/Variation Order kwa Programme, Strip Map na michoro. (3) NOP ya kila mwezi kutoka programme, (4) RFI ya kila NOP, (5) Request for Materials kutoka QA/QC, (6) Weekly Site Records - kwa fomu za ofisi.",
+ "notes": "V16.0: (1) Original BOQ sasa inaonyesha chainages za awali kwenye Programme na Strip Map (urefu uliotolewa na Rescoping unarudishwa). Kazi iliyowekwa 0 kwenye Rescoping (k.m. iliyokataliwa na mkandarasi) hairudishwi tena yenyewe. (2) NOP ya mwezi inagawanywa kwa kila siku - Ndiyo/Hapana - Weekly Site Record inaonyesha kila tarehe kazi iliyofanyika na isiyofanyika. (3) Mwezi ukithibitishwa Monthly Progress Report inajitengeneza. (4) Progress Reports zote tangu commencement kwa ZIP moja.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
