@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "16.0",
-  "file": "cm-pc-16.0.bin",
-  "sha256": "f5842416402caa69de54bbb5d7636c9493e11baf5db0c9045f357869b5916ef9",
+  "version": "16.1",
+  "file": "cm-pc-16.1.bin",
+  "sha256": "fb399ec3949f195075e8d5fc39d90ec5ee955773a5cf497d6dce833cff969bb8",
   "base": "14.3"
  },
- "notes": "V16.0: (1) Original BOQ sasa inaonyesha chainages za awali kwenye Programme na Strip Map (urefu uliotolewa na Rescoping unarudishwa). Kazi iliyowekwa 0 kwenye Rescoping (k.m. iliyokataliwa na mkandarasi) hairudishwi tena yenyewe. (2) NOP ya mwezi inagawanywa kwa kila siku - Ndiyo/Hapana - Weekly Site Record inaonyesha kila tarehe kazi iliyofanyika na isiyofanyika. (3) Mwezi ukithibitishwa Monthly Progress Report inajitengeneza. (4) Progress Reports zote tangu commencement kwa ZIP moja.",
+ "notes": "V16.1: Siku zote za mkataba (pamoja na Jumapili) zinaonekana kwenye kazi za kila siku na Weekly Site Record. Weekly Site Records na Monthly Progress Reports za kila wiki/mwezi tangu commencement date zinajitengeneza zenyewe; kabla ya NOP No.1 zinaonyesha 'No works done' kila tarehe na sababu.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
