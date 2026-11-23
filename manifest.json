@@ -1,11 +1,11 @@
 {
  "pc": {
-  "version": "16.1",
-  "file": "cm-pc-16.1.bin",
-  "sha256": "fb399ec3949f195075e8d5fc39d90ec5ee955773a5cf497d6dce833cff969bb8",
+  "version": "16.2",
+  "file": "cm-pc-16.2.bin",
+  "sha256": "eb572793c550075749e862a27969d7f93289c99f3c5545fdd93343615c338844",
   "base": "14.3"
  },
- "notes": "V16.1: Siku zote za mkataba (pamoja na Jumapili) zinaonekana kwenye kazi za kila siku na Weekly Site Record. Weekly Site Records na Monthly Progress Reports za kila wiki/mwezi tangu commencement date zinajitengeneza zenyewe; kabla ya NOP No.1 zinaonyesha 'No works done' kila tarehe na sababu.",
+ "notes": "V16.2: Kila kazi kwenye Programme iko kwenye category sahihi kufuata Bill ya BOQ: Preliminaries (Bill 1), Earthworks/Pavement/Surfacing/Vegetation/Desilting (Bill 2), Drainage Structures (Bill 3), Road Furniture & Safety (Bill 4, road signs, km posts, guard rails), Bridges (Bill 5 - river training, timber, steel covers, bolts, sand bags). River training ni Bridge works ya kiangazi.",
  "apk": {
   "version": "1.0.28",
   "file": "sitecamera-1.0.28.apk",
