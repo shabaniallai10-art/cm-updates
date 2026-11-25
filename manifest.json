@@ -1,14 +1,1 @@
-{
- "pc": {
-  "version": "16.2",
-  "file": "cm-pc-16.2.bin",
-  "sha256": "eb572793c550075749e862a27969d7f93289c99f3c5545fdd93343615c338844",
-  "base": "14.3"
- },
- "notes": "V16.2: Kila kazi kwenye Programme iko kwenye category sahihi kufuata Bill ya BOQ: Preliminaries (Bill 1), Earthworks/Pavement/Surfacing/Vegetation/Desilting (Bill 2), Drainage Structures (Bill 3), Road Furniture & Safety (Bill 4, road signs, km posts, guard rails), Bridges (Bill 5 - river training, timber, steel covers, bolts, sand bags). River training ni Bridge works ya kiangazi.",
- "apk": {
-  "version": "1.0.28",
-  "file": "sitecamera-1.0.28.apk",
-  "sha256": "ac9967f57e3132a78a7cc587481d3aee1738ecc3edc3ff81903e00d50644f5b0"
- }
-}
+{"pc": {"version": "17.0", "file": "cm-pc-17.0.bin", "sha256": "0cb967d17ed256ede3f86c54a33015c71cc212611d3cbe4c465541f682a27e4d", "base": "14.3"}, "notes": "V17.0 + Site Camera 1.0.30: VIDEO SURVEY (Hatua 1). Simu inarekodi video moja + GPS + barometer tu wakati wa survey (inakagua nafasi na betri kabla). Ikimaliza, kompyuta inaichukua yenyewe kupitia hotspot (inaendelea ilipokatika; simu inafuta baada ya kompyuta kuipokea yote). Kompyuta: kitufe 🎥 Video - picha ya kila mita 1 kutoka kwenye video, picha za kila mita 25 kwa analysis, longitudinal profile kutoka barometer.", "apk": {"version": "1.0.30", "file": "sitecamera-1.0.30.apk", "sha256": "c75fdc91c4f8b61c9f7f34e57568c4f3341bb8594bf7810bc4e6e66537a08274"}}
